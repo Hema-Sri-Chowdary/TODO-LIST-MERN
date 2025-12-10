@@ -12,20 +12,20 @@
 
 <h2>🚀 Tech Stack</h2>
 <ul>
-  <li><strong>Frontend:</strong> ⚛️ React.js, HTML5, JavaScript</li>
-  <li><strong>Styling:</strong> 💅 CSS3 / Bootstrap </li>
-  <li><strong>Backend:</strong> 🔧 Node.js + Express.js</li>
-  <li><strong>Database:</strong> 🗃️ MongoDB with Mongoose</li>
+  <li><strong>Frontend:</strong>  React.js, HTML5, JavaScript</li>
+  <li><strong>Styling:</strong>  CSS3 / Bootstrap </li>
+  <li><strong>Backend:</strong>  Node.js + Express.js</li>
+  <li><strong>Database:</strong>  MongoDB with Mongoose</li>
 </ul>
 
 <h2>✨ Features</h2>
 <ul>
-  <li>📝 Add new tasks</li>
-  <li>✏️ Edit existing tasks</li>
-  <li>❌ Delete tasks</li>
-  <li>✅ Mark tasks as complete</li>
-  <li>📱 Fully responsive layout</li>
-  <li>💾 Persistent data using MongoDB</li>
+  <li> Add new tasks</li>
+  <li> Edit existing tasks</li>
+  <li> Delete tasks</li>
+  <li> Mark tasks as complete</li>
+  <li> Fully responsive layout</li>
+  <li> Persistent data using MongoDB</li>
 </ul>
 
 <h2>🛠️ Getting Started</h2>
@@ -45,12 +45,7 @@ npm install
 npm run dev</code></pre>
   </li>
 
-  <li>⚙️ Add a <code>.env</code> file in <code>server/</code> with:
-    <pre><code>
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-    </code></pre>
-  </li>
+
 </ol>
 
 <h2>📬 Contact</h2>
